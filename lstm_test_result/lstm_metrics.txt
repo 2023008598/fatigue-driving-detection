@@ -1,0 +1,11 @@
+测试集准确率: 0.8333
+
+              precision    recall  f1-score   support
+
+      Normal     0.6774    1.0000    0.8077        63
+     Yawning     1.0000    0.9342    0.9660        76
+  Microsleep     1.0000    0.3902    0.5614        41
+
+    accuracy                         0.8333       180
+   macro avg     0.8925    0.7748    0.7784       180
+weighted avg     0.8871    0.8333    0.8184       180
