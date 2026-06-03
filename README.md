@@ -1,4 +1,4 @@
-# Spatio-Temporal Fatigue Driving Recognition
+# Fatigue-driving-detection
 
 This repository implements a robust video classification pipeline designed to detect fatigue driving behaviors (Normal, Yawning, Microsleep) through spatio-temporal feature extraction.
 
