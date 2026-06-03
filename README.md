@@ -25,5 +25,4 @@ Instead of processing redundant consecutive frames, the pipeline utilizes a unif
 * `train_lstm.py`: The core script containing the CNN+Bi-LSTM model architecture, Focal Loss implementation, and training loop.
 * `data_preprocess.py` / `shuju.py`: Data loaders handling video frame extraction, sequence sampling, and augmentation.
 * `eval.py` / `fix_final.py`: Standalone evaluation scripts for generating accuracy metrics and detailed classification reports.
-* `疲劳驾驶行为识别.md`: Detailed experimental report documenting methodology, baseline comparisons, and error diagnosis.
 * `confusion_matrix.png`: Visual representation of model performance across the three target classes.
